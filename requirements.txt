@@ -1,0 +1,18 @@
+# ─────────────────────────────────────────────────────────────
+# ICFAI University Helpdesk Chatbot — requirements.txt
+# ─────────────────────────────────────────────────────────────
+
+# Core framework
+streamlit>=1.35.0
+
+# NLP — original stack (preserved)
+nltk>=3.8.1
+scikit-learn>=1.4.0
+
+# Voice — server-side helpers (optional; voice runs in-browser via Web Speech API)
+# pyttsx3>=2.90           # Text-to-speech (desktop/local only; not needed for Streamlit Cloud)
+# SpeechRecognition>=3.10 # STT  (desktop/local only; not needed for Streamlit Cloud)
+# pyaudio>=0.2.14         # Required by SpeechRecognition on local machines
+
+# Utility (usually already installed)
+numpy>=1.26.0
