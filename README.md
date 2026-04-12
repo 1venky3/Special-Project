@@ -2,8 +2,7 @@
 
 An intelligent college helpdesk chatbot built using :contentReference[oaicite:0]{index=0}, :contentReference[oaicite:1]{index=1}, and Natural Language Processing (NLP). This chatbot helps students get instant answers to common college-related queries such as admissions, fees, exams, hostel, placements, attendance, and more. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
 
-App Live Link: https://special-project-qzwtjqikmn8fakfi22vlfy.streamlit.app/
-
+App Live Link: https: https://special-project-8b3appwjr3zgm7vemyjbkvw.streamlit.app/
 ---
 
 ## 📌 Project Overview
